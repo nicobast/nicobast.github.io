@@ -83,8 +83,8 @@ author:
   name             : "Nico Bast"
   avatar           : "portrait_head.png"
   bio              : "Developmental Neuroscientist & Childhood Psychotherapist"
-  location         : "Frankfurt / Germany"
-  employer         : "Goethe University Frankfurt"
+  location         : "Goethe University Frankfurt / Germany"
+  employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=nico+bast"
   googlescholar    : "https://scholar.google.de/citations?user=jFspCx8AAAAJ&hl=eng"
   email            : "nico.bast@kgu.de"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/pupilzdilation"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
