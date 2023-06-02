@@ -11,31 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Psychotherapy Licence in Cognitive-Behavioral Therapy, Heidelberg and Marburg (Germany), 2021
+* PhD in Child and Adolescent Psychiatry, Central Institute of Mental Health (Germany), 2017
+* M.S. in Developmental and Clinical Psychology, Heidelberg University, 2013
+* B.S. in Psychology, Heidelberg University, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-: Head of Clinical Research
+  * University Hospital Frankfurt
+  * Supervisor: Prof. Dr. Christine M. Freitag
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-: Freelance Lecturer
+  * Heidelberg University / Postgraduate Psychotherapy Training
+  * Topic: Evidence-Based Psychotherapy
+
+* 2015-2017: Deputy Head - Autism Research Group
+  * Central Institute of Mental Health
+  * Supervisor: Prof. Dr. Dr. Tobias Banaschewski
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2013-2015: Study Coordinator
+  * Site: Central Insitute of Mental Health
+  * Study: EU-AIMS LEAP 
+  
+* 2013: Research Assistant
+  * Heidelberg University / Research Unit for Psychotherapy
+  * Supervisor: PD. Dr. Stephanie Bauer
+  
 
+Scientific Skills
+======
+* Data Science (R, Python)
+* Experimental Design (Psychopy, Psychtoolbox-3)
+* Methodological Diversity (Eye-Tracking, Pupillometry, Behavior)
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +63,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
