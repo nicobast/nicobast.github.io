@@ -5,4 +5,3 @@ write.table(pubs, file='publications.tsv', quote=FALSE, sep='\t', col.names = NA
 
 
 test<-read.table(file="publications.tsv",sep='\t', quote="", header=T,row.names=1)
-
