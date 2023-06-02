@@ -29,7 +29,7 @@ publist = {
     "journal":{
         "file": "works.bib",
         "venuekey" : "journal",
-        "venue-pretext" : "@",
+        "venue-pretext" : "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
     } 
@@ -144,6 +144,8 @@ for pubsource in publist:
 
             md_filename = os.path.basename(md_filename)
 
+
+            #feedback output
             with open("../_publications/" + md_filename, 'w') as f:
                 f.write(md)
             print(f'SUCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")

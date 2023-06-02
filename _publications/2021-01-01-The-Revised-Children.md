@@ -3,8 +3,8 @@ title: "The Revised Childrentextquotesingles Communication Checklist-2 ($less$sc
 collection: publications
 permalink: /publication/2021-01-01-The-Revised-Children
 date: 2021-01-01
-venue: '@Autism Research'
+venue: 'Autism Research'
 paperurl: 'https://doi.org/10.1002%2Faur.2467'
-citation: ' Sophia Wellnitz,  Isabella Kaestel,  Leonora Vllasaliu,  Hannah Cholemkery,  Christine Freitag,  Nico Bast, &quot;The Revised Childrentextquotesingles Communication Checklist-2 ($less$scp$greater$CCC-R$less$/scp$greater$): Factor Structure and Psychometric Evaluation.&quot; @Autism Research, 2021.'
+citation: ' Sophia Wellnitz,  Isabella Kaestel,  Leonora Vllasaliu,  Hannah Cholemkery,  Christine Freitag,  Nico Bast, &quot;The Revised Childrentextquotesingles Communication Checklist-2 ($less$scp$greater$CCC-R$less$/scp$greater$): Factor Structure and Psychometric Evaluation.&quot; Autism Research, 2021.'
 ---
 [Access paper here](https://doi.org/10.1002%2Faur.2467){:target="_blank"}
