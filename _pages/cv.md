@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* Psychotherapy Licence in Cognitive-Behavioral Therapy, Heidelberg and Marburg (Germany), 2021
-* PhD in Child and Adolescent Psychiatry, Central Institute of Mental Health (Germany), 2017
+* Clinical Training in Cognitive-Behavioral Therapy, Heidelberg and Marburg (Germany), 2021
+* Ph.D. in Child and Adolescent Psychiatry, Central Institute of Mental Health (Germany), 2017
 * M.S. in Developmental and Clinical Psychology, Heidelberg University, 2013
 * B.S. in Psychology, Heidelberg University, 2010
 
 Work experience
 ======
-* 2017-: Head of Clinical Research
+* since 2017: Head of Clinical Research
   * University Hospital Frankfurt
   * Supervisor: Prof. Dr. Christine M. Freitag
 
-* 2016-: Freelance Lecturer
+* since 2016: Freelance Lecturer
   * Heidelberg University / Postgraduate Psychotherapy Training
   * Topic: Evidence-Based Psychotherapy
 
