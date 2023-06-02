@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Clinical Training in Cognitive-Behavioral Therapy, Heidelberg and Marburg (Germany), 2021
-* Ph.D. in Child and Adolescent Psychiatry, Central Institute of Mental Health (Germany), 2017
+* Ph.D. in Child and Adolescent Psychiatry, Central Institute of Mental Health, 2017
 * M.S. in Developmental and Clinical Psychology, Heidelberg University, 2013
 * B.S. in Psychology, Heidelberg University, 2010
 
