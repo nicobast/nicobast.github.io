@@ -7,4 +7,3 @@ venue: 'Autism Research'
 paperurl: 'https://doi.org/10.1002%2Faur.2467'
 citation: ' Sophia Wellnitz,  Isabella Kaestel,  Leonora Vllasaliu,  Hannah Cholemkery,  Christine Freitag,  **Nico Bast**, &quot;The Revised Childrentextquotesingles Communication Checklist-2: Factor Structure and Psychometric Evaluation.&quot; Autism Research, 2021.'
 ---
-[Access paper here](https://doi.org/10.1002%2Faur.2467){:target="_blank"}

@@ -8,4 +8,3 @@ paperurl: 'https://doi.org/10.1002/aur.2784'
 github: 'https://github.com/nicobast/Paper_RingMemoryPD'
 citation: ' Bast N,  Gaigg SB,  Bowler DM,  Roessner V,  Freitag CM,  Ring M, &quot;Arousal-modulated memory encoding and retrieval in adults with autism spectrum disorder..&quot; Autism research : official journal of the International Society for Autism Research, 2022.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Arousal+modulated+memory+encoding+and+retrieval+in+adults+with+autism+spectrum+disorder.){:target="_blank"} for full citation
