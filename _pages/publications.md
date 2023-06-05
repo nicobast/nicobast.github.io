@@ -11,16 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-# {% for post in site.publications reversed %}
-#   {% include archive-single.html %}
-# {% endfor %}
-
 <h2>Named Authorships</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'named' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
 
 <h2>Group Authorships</h2>
 {% for post in site.publications reversed %}
