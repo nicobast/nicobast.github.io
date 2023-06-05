@@ -1,6 +1,7 @@
 ---
 title: "Arousal-modulated memory encoding and retrieval in adults with autism spectrum disorder."
 collection: publications
+pubtype: 'named'
 permalink: /publication/2022-09-01-Arousal-modulated-me
 date: 2022-09-01
 venue: 'Autism research : official journal of the International Society for Autism Research'

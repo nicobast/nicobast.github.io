@@ -1,6 +1,7 @@
 ---
 title: "Attenuated Anticipation of Social and Monetary Rewards in Autism Spectrum Disorders"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2020-07-01-Attenuated-Anticipat
 date: 2020-07-01
 venue: 'BioRxiv'

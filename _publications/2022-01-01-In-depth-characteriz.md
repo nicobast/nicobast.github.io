@@ -1,6 +1,7 @@
 ---
 title: "In-depth characterization of neuroradiological findings in a large sample of individuals with autism spectrum disorder and controls."
 collection: publications
+pubtype: 'named'
 permalink: /publication/2022-01-01-In-depth-characteriz
 paperurl: 'https://doi.org/10.1016/j.nicl.2022.103118'
 date: 2022-01-01

@@ -1,6 +1,7 @@
 ---
 title: "The Revised Children's Communication Checklist-2: Factor Structure and Psychometric Evaluation"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2021-01-01-The-Revised-Children
 date: 2021-01-01
 venue: 'Autism Research'

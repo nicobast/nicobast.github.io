@@ -1,6 +1,7 @@
 ---
 title: "Fluid Intelligence Is (Much) More than Working Memory Capacity: An Experimental Analysis"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2023-04-01-Fluid-Intelligence-I
 date: 2023-04-01
 venue: 'Journal of Intelligence'

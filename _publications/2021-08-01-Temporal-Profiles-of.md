@@ -1,6 +1,7 @@
 ---
 title: "Temporal Profiles of Social Attention Are Different Across Development in Autistic and Neurotypical People."
 collection: publications
+pubtype: 'group'
 permalink: /publication/2021-08-01-Temporal-Profiles-of
 date: 2021-08-01
 venue: 'Biological psychiatry. Cognitive neuroscience and neuroimaging'

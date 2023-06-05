@@ -1,6 +1,7 @@
 ---
 title: "Pupil Dilation Progression Modulates Aberrant Social Cognition in Autism Spectrum Disorder"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2019-07-01-Pupil-Dilation-Progr
 date: 2019-07-01
 venue: 'Autism Research'

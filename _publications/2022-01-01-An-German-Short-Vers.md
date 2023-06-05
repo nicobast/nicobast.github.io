@@ -1,6 +1,7 @@
 ---
 title: "An German Short-Version of the &quot;Sensory Perception Quotient&quot; for Adults With Autism Spectrum Disorder."
 collection: publications
+pubtype: 'named'
 permalink: /publication/2022-01-01-An-German-Short-Vers
 date: 2022-01-01
 venue: 'Frontiers in psychiatry'

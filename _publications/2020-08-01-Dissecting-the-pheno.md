@@ -1,6 +1,7 @@
 ---
 title: "Dissecting the phenotypic heterogeneity in sensory features in autism spectrum disorder: a factor mixture modelling approach."
 collection: publications
+pubtype: 'group'
 permalink: /publication/2020-08-01-Dissecting-the-pheno
 date: 2020-08-01
 venue: 'Molecular autism'

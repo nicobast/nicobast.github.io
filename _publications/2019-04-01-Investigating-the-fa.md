@@ -1,6 +1,7 @@
 ---
 title: "Investigating the factors underlying adaptive functioning in autism in the EU-AIMS Longitudinal European Autism Project."
 collection: publications
+pubtype: 'group'
 permalink: /publication/2019-04-01-Investigating-the-fa
 date: 2019-04-01
 venue: 'Autism research : official journal of the International Society for Autism Research'

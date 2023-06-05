@@ -1,6 +1,7 @@
 ---
 title: "Interindividual Differences in Cortical Thickness and Their Genomic Underpinnings in Autism Spectrum Disorder."
 collection: publications
+pubtype: 'named'
 permalink: /publication/2022-03-01-Interindividual-Diff
 date: 2022-03-01
 paperurl: 'https://doi.org/10.1176/appi.ajp.2021.20050630'

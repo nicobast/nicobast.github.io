@@ -1,6 +1,7 @@
 ---
 title: "Study protocol of the multi-centre, randomised controlled trial of the Frankfurt Early Intervention Programme A-FFIP versus early intervention as usual for toddlers and preschool children with Autism Spectrum Disorder (A-FFIP study)"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2020-02-01-Study-protocol-of-th
 date: 2020-02-01
 venue: 'Trials'

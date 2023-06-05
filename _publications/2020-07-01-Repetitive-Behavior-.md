@@ -1,6 +1,7 @@
 ---
 title: "Repetitive Behavior in Children and Adolescents: Psychometric Properties of the German Version of the Repetitive Behavior Scale-Revised"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2020-07-01-Repetitive-Behavior-
 date: 2020-07-01
 venue: 'Journal of Autism and Developmental Disorders'

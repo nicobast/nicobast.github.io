@@ -1,6 +1,7 @@
 ---
 title: "Pupil dilation during visuospatial orienting differentiates between autism spectrum disorder and attention-deficit/hyperactivity disorder"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2019-12-01-Pupil-dilation-durin
 date: 2019-12-01
 venue: 'Journal of Child Psychology and Psychiatry'

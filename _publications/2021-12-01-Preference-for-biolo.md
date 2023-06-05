@@ -1,6 +1,7 @@
 ---
 title: "Preference for biological motion is reduced in ASD: implications for clinical trials and the search for biomarkers."
 collection: publications
+pubtype: 'group'
 permalink: /publication/2021-12-01-Preference-for-biolo
 date: 2021-12-01
 venue: 'Molecular autism'

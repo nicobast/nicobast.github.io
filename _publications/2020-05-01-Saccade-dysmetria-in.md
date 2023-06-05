@@ -1,6 +1,7 @@
 ---
 title: "Saccade dysmetria indicates attenuated visual exploration in autism spectrum disorder"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2020-05-01-Saccade-dysmetria-in
 date: 2020-05-01
 venue: 'Journal of Child Psychology and Psychiatry'

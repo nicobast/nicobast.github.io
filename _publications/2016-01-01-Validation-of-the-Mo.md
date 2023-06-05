@@ -1,6 +1,7 @@
 ---
 title: "Validation of the Movie for the Assessment of Social Cognition in Adolescents with ASD: Fixation Duration and Pupil Dilation as Predictors of Performance"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2016-01-01-Validation-of-the-Mo
 date: 2016-01-01
 venue: 'Journal of autism and developmental disorders'

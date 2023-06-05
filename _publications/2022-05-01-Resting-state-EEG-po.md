@@ -1,6 +1,7 @@
 ---
 title: "Resting state EEG power spectrum and functional connectivity in autism: a cross-sectional analysis."
 collection: publications
+pubtype: 'group'
 permalink: /publication/2022-05-01-Resting-state-EEG-po
 date: 2022-05-01
 paperurl: 'https://doi.org/10.1186/s13229-022-00500-x'

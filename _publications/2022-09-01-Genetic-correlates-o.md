@@ -1,6 +1,7 @@
 ---
 title: "Genetic correlates of phenotypic heterogeneity in autism."
 collection: publications
+pubtype: 'group'
 permalink: /publication/2022-09-01-Genetic-correlates-o
 date: 2022-09-01
 venue: 'Nature genetics'

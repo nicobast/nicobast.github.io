@@ -1,6 +1,7 @@
 ---
 title: "Altered Connectivity Between Cerebellum, Visual, and Sensory-Motor Networks in Autism Spectrum Disorder: Results from the EU-AIMS Longitudinal European Autism Project."
 collection: publications
+pubtype: 'group'
 permalink: /publication/2019-03-01-Altered-Connectivity
 date: 2019-03-01
 venue: 'Biological psychiatry. Cognitive neuroscience and neuroimaging'

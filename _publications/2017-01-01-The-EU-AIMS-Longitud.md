@@ -1,6 +1,7 @@
 ---
 title: "The EU-AIMS Longitudinal European Autism Project (LEAP): design and methodologies to identify and validate stratification biomarkers for autism spectrum disorders"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2017-01-01-The-EU-AIMS-Longitud
 date: 2017-01-01
 venue: 'Molecular autism'

@@ -1,6 +1,7 @@
 ---
 title: "The locus coeruleus-norepinephrine system as pacemaker of attention--A developmental mechanism of derailed attentional function in autism spectrum disorder"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2018-01-01-The-locus-coeruleus-
 date: 2018-01-01
 venue: 'European Journal of Neuroscience'

@@ -1,6 +1,7 @@
 ---
 title: "Qualitative differences in the spatiotemporal brain states supporting configural face processing emerge in adolescence in autism."
 collection: publications
+pubtype: 'group'
 permalink: /publication/2022-07-01-Qualitative-differen
 date: 2022-07-01
 paperurl: 'https://doi.org/10.1016/j.cortex.2022.06.010'

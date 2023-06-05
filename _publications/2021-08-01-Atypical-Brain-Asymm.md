@@ -1,6 +1,7 @@
 ---
 title: "Atypical Brain Asymmetry in Autism-A Candidate for Clinically Meaningful Stratification."
 collection: publications
+pubtype: 'group'
 permalink: /publication/2021-08-01-Atypical-Brain-Asymm
 date: 2021-08-01
 venue: 'Biological psychiatry. Cognitive neuroscience and neuroimaging'
