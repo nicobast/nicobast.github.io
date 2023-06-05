@@ -27,9 +27,9 @@ author_profile: true
 {% endfor %}
 
 
-```js
+
 var str = document.getElementById(“input”).value
 var substr = “Nico Bast”
 var regex = new RegExp(substr, ‘g’)
 str.replace(regex, ‘<b>’ + substr + ‘</b>’)
-```
+
