@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Named Authorships</h2>
+<h1><u>Named Authorships</h1></u>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'named' %}
       {% include archive-single.html %}
@@ -19,17 +19,10 @@ author_profile: true
 {% endfor %}
 
 
-<h2>Group Authorships</h2>
+<h1><u>Group Authorships</h1></u>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'group' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
-
-
-var str = document.getElementById(“input”).value
-var substr = “Nico Bast”
-var regex = new RegExp(substr, ‘g’)
-str.replace(regex, ‘<b>’ + substr + ‘</b>’)
 
