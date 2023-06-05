@@ -1,6 +1,7 @@
 ---
 title: "The EU-AIMS longitudinal european autism project (LEAP): clinical characterisation"
 collection: publications
+pubtype: 'named'
 permalink: /publication/2017-12-01-The-EU-AIMS-longitud
 date: 2017-12-01
 venue: 'Molecular autism'

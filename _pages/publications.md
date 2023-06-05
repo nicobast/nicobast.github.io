@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h1><u>Named Authorships</u></h1>
+<h2><u>Named Authorships</u></h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'named' %}
       {% include archive-single.html %}
@@ -19,7 +19,7 @@ author_profile: true
 {% endfor %}
 
 
-<h1><u>Group Authorships</u></h1>
+<h2><u>Group Authorships</u></h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'group' %}
       {% include archive-single.html %}
