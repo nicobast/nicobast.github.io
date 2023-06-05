@@ -1,7 +1,7 @@
 ---
 title: "EU-AIMS Longitudinal European Autism Project (LEAP): the autism twin cohort."
 collection: publications
-pubtype: 'named'
+pubtype: 'group'
 permalink: /publication/2018-01-01-EU-AIMS-Longitudinal
 date: 2018-01-01
 venue: 'Molecular autism'
