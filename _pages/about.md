@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**Due to university clinic IT shutdown, currently use my Uni email for contact: nbast@med.uni-frankfurt.de**
+
 I am postdoctoral researcher at the [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/en) (Germany) and Head of Clinical Research at the [Department of Child and Adolescent Psychiatry](https://www.kgu.de/einrichtungen/kliniken/zentrum-fuer-psychische-gesundheit/psychiatrie-psychosomatik-und-psychotherapie-des-kindes-und-jugendalters) at the Goethe University Hospital. I further am a licensed psychotherapist and conduct cognitive-behavioral treatments in children. My research focuses on the neurobiological mechanisms of neurodevelopmental conditions and general psychopathology. My work emphasizes the application of pupillometry as a scalable neuroimaging tool in young and clincial populations. This aims to bridge the gap between developmental neuroscience and clinical application.
 
 Sometimes, I go out for a walk.
