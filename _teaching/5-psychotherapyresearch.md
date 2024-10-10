@@ -4,7 +4,7 @@ collection: teaching
 type: "postgraduate course"
 permalink: /teaching/5-psychotherapyresearch
 venue: "Heidelberg University, Center for Psychological Psychotherapy"
-date: 2024-05-10
+date: 2025-01-01
 location: "Heidelberg, Germany"
 ---
 

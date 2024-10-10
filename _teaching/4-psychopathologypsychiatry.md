@@ -4,7 +4,7 @@ collection: teaching
 type: "medical students course"
 permalink: /teaching/4-psychopathologypsychiatry
 venue: "Heidelberg University, Center for Psychological Psychotherapy"
-date: 2025-01-09
+date: 2024-01-09
 location: "Heidelberg, Germany"
 ---
 
