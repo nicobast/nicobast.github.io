@@ -6,9 +6,7 @@ main:
   # - title: "Talks"
   #   url: /talks/
   #
-  # - title: "Teaching"
-  #   url: /teaching/
-  #
+  
   # - title: "Blog Posts"
   #   url: /year-archive/
   
@@ -17,6 +15,10 @@ main:
     
   - title: "Apps"
     url: /apps/
+    
+  - title: "Teaching"
+    url: /teaching/
+  
     
   # - title: "Guide"
   #   url: /markdown/
