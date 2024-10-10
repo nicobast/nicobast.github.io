@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+* since 2024: Independent Research Group Leader (MIND-CHILD)
+  * University Hospital Frankfurt
+  * funded by the Emmy Noether Programme of the German Research Foundation
+
 * since 2017: Head of Clinical Research
   * University Hospital Frankfurt
   * Supervisor: Prof. Dr. Christine M. Freitag
