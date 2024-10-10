@@ -11,30 +11,13 @@ redirect_from:
 
 Work experience
 ======
-* since 2024: Independent Research Group Leader (MIND-CHILD)
-  * University Hospital Frankfurt
-  * funded by the Emmy Noether Programme of the German Research Foundation
-
-* since 2017: Head of Clinical Research
-  * University Hospital Frankfurt
-  * Supervisor: Prof. Dr. Christine M. Freitag
-
-* since 2016: Freelance Lecturer
-  * Heidelberg University + Marburg University/ Postgraduate Psychotherapy Training
-  * Topic: Evidence-Based Psychotherapy
-
-* 2015-2017: Deputy Head - Autism Research Group
-  * Central Institute of Mental Health
-  * Supervisor: Prof. Dr. Dr. Tobias Banaschewski
+* since 2024: Emmy Noether Research Group Leader (MIND-CHILD), University Hospital Frankfurt
+* since 2017: Head of Clinical Research, University Hospital Frankfurt
+* since 2016: Freelance Lecturer in Postgraduate Psychotherapy Training
+* 2015-2017: Deputy Head of the Autism Research Group, Central Institute of Mental Health, Mannheim
+* 2013-2015: Study Coordinator ([EU-AIMS LEAP](https://www.aims-2-trials.eu/about-aims-2-trials/eu-aims/)), Central Insitute of Mental Health
+* 2013: Research Assistant, Research Unit for Psychotherapy, Heidelberg University
   
-* 2013-2015: Study Coordinator
-  * Site: Central Insitute of Mental Health
-  * Study: EU-AIMS LEAP 
-  
-* 2013: Research Assistant
-  * Heidelberg University / Research Unit for Psychotherapy
-  * Supervisor: PD. Dr. Stephanie Bauer
-
 Education
 ======
 * 2021: Clinical Training in Cognitive-Behavioral Therapy, Heidelberg and Marburg (Germany)
@@ -45,7 +28,7 @@ Education
 Peer Recognition
 ======
 * 2024: [Herman-Emminghaus-Prize](https://www.dgkjp.de/die-dgkjp/hermann-emminghaus-preis/) by the German Society of Child and Adolescent Psychiatry, Psychosomatics, and Psychotherapy, Germany
-* 2023: Offer for a tenured professorship (W2) at the Charlotte Fresenius University of Psychology, Germany (offer declined)
+* 2023: Declined offer for a tenured professorship (W2) at the Charlotte Fresenius University of Psychology, Germany 
 * 2023:	Shortlisted for a tenured professorship (W3) of Child and Adolescent Psychology and Psychotherapy at the University of Freiburg, Germany
 * 2022:	Associate Fellowship of the Johanna Quandt Young Academy, Germany
 * 2022:	[Weber-Bosch Prize](https://wgas-autismus.org/en/prizes-awards/) by the Society for Research in Autism Spectrum Conditions
@@ -70,7 +53,7 @@ Funding:
 Scientific Skills
 ======
 * Data Science (R, Python)
-* Experimental Design (Psychopy, Psychtoolbox-3)
+* Experimental Design (Psychopy, Psychtoolbox-3, Lab Streaming Layer)
 * Methodological Diversity (Eye-Tracking, Pupillometry, Behavior)
   
 Publications
