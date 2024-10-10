@@ -25,6 +25,19 @@ Education
 * 2013: M.S. in Developmental and Clinical Psychology, Heidelberg University
 * 2010: B.S. in Psychology, Heidelberg University, 2010
 
+Funding:
+======
+* 2027-2030:	Emmy Noether Programme (part 2, after evaluation of part 1), <b>966,000 €</b>
+* 2024-2027:	Emmy Noether Programme (part 1), 962,000 €
+* 2022-2025:	German Research Foundation (DFG Sachbeihilfe), 210,000 €
+* 2021-2024:	Medical Faculty Frankfurt, Research Fund for Excellent ECRs, 45,000€
+* 2023-2025:	Daimler & Benz Foundation, Scholarship for Advanced Postdocs, 40,000€
+* 2020-2022:	Polytechnic Foundation, Main Campus Educator Scholarship, 10,000€
+* 2019-2020:	Paul und Ursula Klein Stiftung, GRADE, Start-up funds, 9,000€
+* 2023: Johanna Quandt Young Academy, R3 Career Support, 4,000€
+* 2023: Adickes Foundation, Research Support, 2,400€
+* 2018: Medical Faculty Frankfurt, Travel funds, 1,500€
+
 Peer Recognition
 ======
 * 2024: [Herman-Emminghaus-Prize](https://www.dgkjp.de/die-dgkjp/hermann-emminghaus-preis/)
@@ -35,19 +48,6 @@ Peer Recognition
 * 2022: [Top 15 Reviewer Award](https://www.acamh.org/blog/peer-review-week-22-top-reviewers/) 
 * 2020:	Research Fellowship of the Interdisciplinary Center for Neuroscience Frankfurt
 * 2018 – 2021:	Various Poster Awards
-
-Funding:
-======
-*2027-2030:	Emmy Noether Programme (part 2, after evaluation of part 1), 966,000 €
-*2024-2027:	Emmy Noether Programme (part 1), 962,000 €
-*2022-2025:	German Research Foundation (DFG Sachbeihilfe), 210,000 €
-*2021-2024:	Medical Faculty Frankfurt, Research Fund for Excellent ECRs, 45,000€
-*2023-2025:	Daimler & Benz Foundation, Scholarship for Advanced Postdocs, 40,000€
-*2020-2022:	Polytechnic Foundation, Main Campus Educator Scholarship, 10,000€
-*2019-2020:	Paul und Ursula Klein Stiftung, GRADE, Start-up funds, 9,000€
-*2023:Johanna Quandt Young Academy, R3 Career Support, 4,000€
-*2023: Adickes Foundation, Research Support, 2,400€
-*2018: Medical Faculty Frankfurt, Travel funds, 1,500€
 
 Scientific Skills
 ======
