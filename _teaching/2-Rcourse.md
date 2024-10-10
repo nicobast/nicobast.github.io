@@ -1,8 +1,8 @@
 ---
-title: "Programming with R"
+title: "Programming with R (2019-2021)"
 collection: teaching
 type: "seminar"
-permalink: /teaching/2021-Rcourse
+permalink: /teaching/2-Rcourse
 venue: "Frankfurt University"
 date: 2019-01-01
 location: "Frankfurt am Main, Germany"

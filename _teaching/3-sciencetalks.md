@@ -1,8 +1,8 @@
 ---
-title: "Science Talks"
+title: "Science Talks (2017-2024)"
 collection: teaching
 type: "colloquium"
-permalink: /teaching/2024-sciencetalks
+permalink: /teaching/3-sciencetalks
 venue: "Frankfurt University, Department of Child and Adolescent Psychiatry"
 date: 2024-10-01
 location: "Frankfurt am Main, Germany"

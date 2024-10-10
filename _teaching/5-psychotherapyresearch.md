@@ -2,7 +2,7 @@
 title: "Seminar - Evidence-based Psychotherapy (2016-2024)"
 collection: teaching
 type: "postgraduate course"
-permalink: /teaching/2024-psychotherapyresearch
+permalink: /teaching/5-psychotherapyresearch
 venue: "Heidelberg University, Center for Psychological Psychotherapy"
 date: 2024-05-10
 location: "Heidelberg, Germany"

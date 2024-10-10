@@ -2,7 +2,7 @@
 title: "Hands-on Seminar - Psychopathology in Psychiatry (2018-2024)"
 collection: teaching
 type: "medical students course"
-permalink: /teaching/2025-psychopathologypsychiatry
+permalink: /teaching/4-psychopathologypsychiatry
 venue: "Heidelberg University, Center for Psychological Psychotherapy"
 date: 2025-01-09
 location: "Heidelberg, Germany"

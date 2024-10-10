@@ -1,8 +1,8 @@
 ---
-title: "Single lectures"
+title: "Single lectures (2017-2024)"
 collection: teaching
 type: "lecture"
-permalink: /teaching/2023-lectures
+permalink: /teaching/1-lectures
 venue: "Frankfurt University"
 date: 2017-01-01
 location: "Frankfurt am Main, Germany"
