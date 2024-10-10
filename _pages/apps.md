@@ -11,11 +11,11 @@ Links to my own [R shiny](https://shiny.posit.co/r/getstarted/shiny-basics/lesso
 that I created to increase my programming skills:
 
 
-<h2>[video archive app](https://nicobast.shinyapps.io/project_Rshiny_videoarchive/)</h2>
-<ul>
-  <li>allows to search a local video repository with key words</li>
-  <li>[source code link](https://github.com/nicobast/shiny_videoarchive)</li>
-</ul>
+*[video archive app](https://nicobast.shinyapps.io/project_Rshiny_videoarchive/)
+  - allows to search a local video repository with key words
+  - [source code link](https://github.com/nicobast/shiny_videoarchive)
+  
+  
 
 <h2>[weight curve app](https://nicobast.shinyapps.io/weight_curve/)</h2>
 <ul>
