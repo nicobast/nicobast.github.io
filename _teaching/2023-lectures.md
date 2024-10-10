@@ -4,7 +4,7 @@ collection: teaching
 type: "lecture"
 permalink: /teaching/2023-lectures
 venue: "Frankfurt University"
-date: 2017-2024
+date: 2017-01-01
 location: "Frankfurt am Main, Germany"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "seminar"
 permalink: /teaching/2021-Rcourse
 venue: "Frankfurt University"
-date: 2019-2021
+date: 2019-01-01
 location: "Frankfurt am Main, Germany"
 ---
 
