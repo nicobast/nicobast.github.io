@@ -7,7 +7,9 @@ tags:
   - autism
 ---
 
-A German TV documentation on autism done in our department. The [clip](https://www.youtube.com/watch?v=BIQJJbjITjs) shows our eye tracking methodology applied to young children and an interview with me: [![CLIP](https://img.youtube.com/vi/BIQJJbjITjs/2.jpg)](https://www.youtube.com/watch?v=BIQJJbjITjs)
+A German TV documentation on autism done in our department. The [clip](https://www.youtube.com/watch?v=BIQJJbjITjs) shows our eye tracking methodology applied to young children and an interview with me. 
+
+[![CLIP](https://img.youtube.com/vi/BIQJJbjITjs/2.jpg)](https://www.youtube.com/watch?v=BIQJJbjITjs)
 
 Here is a auto-generated transcript of an Englisch translation of the clip:
 
