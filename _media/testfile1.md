@@ -1,11 +1,11 @@
 ---
-layout: archive
 title: "test media 1"
-collection: posts
+collection: teaching
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 permalink: /media/testfile1
-date: 2024-01-10
-paperurl: 'https://doi.org/10.1007/s10803-016-2828-z'
+venue: "Frankfurt University"
+date: 2019-01-01
+location: "Frankfurt am Main, Germany"
 
 ---
 
