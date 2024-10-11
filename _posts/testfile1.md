@@ -1,8 +1,8 @@
 ---
 title: "test media 1"
-date: 2019-01-01
+date: 2024-09-12
 permalink: /posts/testfile1
 
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Press release](https://aktuelles.uni-frankfurt.de/forschung/2-mio-euro-fuer-die-frage-lassen-sich-psychische-erkrankungen-vorhersagen/) on the funding of the Emmy Noether Research Group. 
