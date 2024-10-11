@@ -20,7 +20,7 @@ main:
     url: /media/
     
   - title: "Media2"
-    url: /year_archive/
+    url: /year-archive/
   
   # - title: "Guide"
   #   url: /markdown/
