@@ -17,10 +17,7 @@ main:
     url: /teaching/
   
   - title: "Media"
-    url: /media/
-    
-  - title: "Media2"
     url: /year-archive/
-  
+    
   # - title: "Guide"
   #   url: /markdown/
